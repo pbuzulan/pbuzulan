@@ -6,12 +6,6 @@
 <a href="https://medium.com/@buzulan.petru">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
- <a href="https://twitter.com/majesticgl">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/majestic.gl/">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
